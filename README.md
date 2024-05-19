@@ -18,8 +18,10 @@ This project is a web application for passwordless authentication.
 
 <p>
   2. Navigate to the project directory:
+   ```sh
         cd passwordless-auth-app
   3. Install dependencies:
+   ```sh
         npm install express nodemailer body-parser cors dotenv axios
                                 OR
         npm install
