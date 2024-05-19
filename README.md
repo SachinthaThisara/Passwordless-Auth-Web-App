@@ -14,4 +14,4 @@ This project is a web application for passwordless authentication.
    ```sh
    git clone https://github.com/your-username/passwordless-auth-app.git
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=binaryguardian&label=Profile%20views&color=0e75b6&style=flat" alt="binaryguardian" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
