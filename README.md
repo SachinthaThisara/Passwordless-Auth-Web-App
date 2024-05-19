@@ -1,5 +1,6 @@
 <p>
-  # Passwordless Authentication App
+  
+# Passwordless Authentication App
 
 ## Description
 This project is a web application for passwordless authentication.
@@ -13,18 +14,28 @@ This project is a web application for passwordless authentication.
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/passwordless-auth-app.git
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p>
-  2. Navigate to the project directory:
+2. Navigate to the project directory:
    ```sh
-        cd passwordless-auth-app
-  3. Install dependencies:
+   cd passwordless-auth-app
+3. Install dependencies:
    ```sh
-        npm install express nodemailer body-parser cors dotenv axios
-                                OR
-        npm install
+   npm install express nodemailer body-parser cors dotenv axios
+                           OR
+   npm install
 
 ### Running the Application
+1. Start the server:
+   ```sh
+   npm start
+2. Run tests:
+   ```sh
+   npm test
+
+
+## Contributors
+
+1. IT21804038 – Kumara M.A.S.T
+2. IT21826504 – Ravinga R.M.G.H
+
 </p>
